@@ -8,7 +8,7 @@
 * commit title
   1. solve / fail : 알고리즘 문제를 해결하거나 해결하지 못한 경우
   2. study : 새로운 file을 생성하여 공부한 것을 정리하는 경우
-  3. update : README 등의 file 또는 file name을 수정하는 경우
+  3. update : README 등의 file 또는 file을 수정하는 경우
   4. refactoring : file의 위치를 바꾸는 경우
   5. others : 상단의 title에 해당되지 않는 경우
 * commit description
