@@ -1,8 +1,51 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackburi&show_icons=true)
+## 👋 About Me
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxorud9940)](https://solved.ac/rlaxorud9940)
+<div align="center">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxorud1716)](https://solved.ac/rlaxorud1716)
+### 🛠 Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### Test Automation
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+#### DevOps & CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+#### Database & Monitoring
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+#### API & Communication
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="165"/>
+  <img src="./profile/top-langs.svg" height="165"/>
+</p>
+
+## 🏆 Algorithm
+
+<p align="center">
+  <a href="https://solved.ac/rlaxorud9940">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxorud9940"/>
+  </a>
+  <a href="https://solved.ac/rlaxorud1716">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxorud1716"/>
+  </a>
+</p>
 
 # commit rule
 * commit title
