@@ -73,3 +73,6 @@
 * commit description
   * 최대한 간결하고 무엇을 했는지 알 수 있도록 적을 것
   * 여러 file이 동시에 commit 찍히지 않도록 문제/공부 또는 수정한 내용을 단위로 commit을 작성할 것
+ 
+# Views
+![Profile views](https://komarev.com/ghpvc/?username=blackburi&label=Profile%20views&color=blue&style=flat)
